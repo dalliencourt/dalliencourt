@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac 
 - 👀 I’m currently 24 yo.
-- 🌱 This is a project for a uni
+- 🌱 This is an university project 
 - 📫 How to reach me: isaaceshe@outlook.co.il
 
 <!---
